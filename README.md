@@ -12,18 +12,24 @@
 
 ## TLDR
 
-1. TODO.
-2. Add the code for your web page to a GitHub repository and host the page online using the GitHub pages service.
+1. Build a feature rich Todo list.
+2. Add the code for your web page to a GitHub assignment 03 repository and host the page online using the GitHub pages service.
 
 ## Description
 
-Create and host a web page that meets the following requirements:
+Todo lists are like a "right of passage" in webdev tutorials. A simple Todo list can be written in a couple dozen lines of code. There is, however, a huge opportunity for innovation, enhancements and features. Your Assignment 03 involves building an awesome and innovative Todo list app. 
 
-* TODO
+## Instructions
 
-## Content requirements
-
-TODO
+1. Your `todos` are going to be javascript objects that your users will be able to dynamically create.
+2. The UI/UX is completely up to you, though it must be responsive and at a minimum enable users to view, add, remove, and delete `todos`. 
+3. Using user centered design principles, consider what additional properties and features your users may need for an awesome Todo list. 
+4. Your `todos` are going to have, at a minimum, `title`, and `done` status. 
+5. Users will also appreciate being able to add categorise or group `todos` together, so you will also need to track `categories` or `headings` or some sort of `grouping` information.
+6. Consider also adding a `priority` and `descriptions` to your `todos`, though only if you feel they add value to your app. 
+7. It would be super annoying to lose all of your `todos` everytime the page refreshed, so you are going to use `localStorage` ([mdn docs](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)) to save the users' data.
+8. You should also have an awesome empty state when a user first opens your app ([examples](https://www.toptal.com/designers/ux/empty-state-ux-design)).  
+9. Though not required, consider "branding" your app with a cool product name, and logo. 
 
 ## Assignment acceptance criteria 
 
@@ -31,6 +37,7 @@ TODO
 * Use the GitHub Pages service to host your pages
 * GitHub time stamps on your project files will be used to asses when the assignment was submitted
 * Ensure you have a license file in your repository (recommend MIT license)
+* Ensure you have the assignment readme.md file in your repository
 
 ## Grading rubric
 
@@ -52,9 +59,34 @@ The creation and posting of this web page is worth 25% of your final grade and m
 * If you fail to request your late pass, or fail to inform me of any extenuating circumstances that cause a delay in your submission by the due date, you will receive a mark of **Zero (0)** for the assignment 
 * If you use your late pass, and fail to submit your assignment by one week after the specified due date, you will receive a mark of **Zero (0)** for the assignment
 
-##  requirements sample
+## Screenshots for inspiration 
 
-The following is a sample of a web page that would be considered to meet the content requirements. You do not, and should not build this design. This is only being shared to illustrate the content requirements of this assignment. 
+The following are some samples of excellent Todo List applications out there. You do not, and should not build these specfic designs. This is only being shared to illustrate what the industry is putting out there right now, and to provide some inspiration to for your own designs and features.
+
+### Simple Todo List App
+
+<img width="1417" alt="Screenshot 2023-02-24 at 12 17 12 PM" src="https://user-images.githubusercontent.com/9325038/221244829-d547cf0d-ce5a-43d4-a2fe-e9d442bbddae.png">
+
+[Source](https://www.uplabs.com/posts/simple-todo-list-app)
+
+### Any.do App
+
+<img width="1417" alt="Screenshot 2023-02-24 at 12 25 39 PM" src="https://user-images.githubusercontent.com/9325038/221246731-8ae0addc-54e0-4185-a344-222cd44a6072.png">
+
+[Source](https://www.any.do/to-do-list/)
+
+### Microsoft To do
+
+<img width="981" alt="Screenshot 2023-02-24 at 12 33 55 PM" src="https://user-images.githubusercontent.com/9325038/221248466-5558bd3e-8111-499b-a57a-5647eeb4abd0.png">
+
+[Source](https://todo.microsoft.com)
+
+### Things by Cultured Code
+
+<img width="971" alt="Screenshot 2023-02-24 at 12 36 54 PM" src="https://user-images.githubusercontent.com/9325038/221249209-08d757a7-0b11-4840-adbe-7b6e49c379e9.png">
+
+[Source](https://culturedcode.com/things/)
+
 
 ## Frequently Asked Questions (FAQ)
 
@@ -112,7 +144,7 @@ TODO
 
 <!-- 
 
-!!!! ASSIGNMENT BONUS !!!!
+!!!! ASSIGNMENT BONUS - STILL NEEDS TO BE WRITTEN !!!!
 
 Congratulations - you found the secret assignment bonus. 
 
@@ -134,6 +166,6 @@ NOTE:
 
 TODO
 
-!!!! ASSIGNMENT BONUS !!!!
+!!!! ASSIGNMENT BONUS - STILL NEEDS TO BE WRITTEN  !!!!
 
 --> 
