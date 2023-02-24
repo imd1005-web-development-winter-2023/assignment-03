@@ -90,17 +90,17 @@ The following are some samples of excellent Todo List applications out there. Yo
 ## Frequently Asked Questions (FAQ)
 
 <dl>
-
-  <dt>What type and style of web page do I have to build?</dt>
-  <dd>You can build anything you want that meets the content requirements. If you want to build a portfolio site - go for it! If you want to build the home page of an e-commerce store - that's cool too!</dd>
   
-  <dt>Does the web page have to work in both mobile and desktop</dt>
-  <dd>No! You may build either a mobile or a desktop version of your web page. You may build a responsive web page if you would like but it is not a requirement for this assignment.</dd>
+  <dt>Do I have to put comments in my code?</dt>
+  <dd>No! You do not need to comment your code. That being said, it is an industry best practice to add comments to your code, so I would recommend that you add comments to your code where it makes sense, but this is not required.</dd>
+  
+  <dt>Does the web page / web app have to work in both mobile and desktop?</dt>
+  <dd>Yes! You must build your app to be completely responsive.</dd>
  
-  <dt>Can I use lorem ipsum text in my webpage</dt>
-  <dd>You may use lorem ipsum if you need to but for this assignment try to use relevant content. Though, if you don't have relevant content you are absolutely permitted to use <a href="https://www.lipsum.com">lorem ipsum</a>, <a href="https://baconipsum.com">bacon ipsum</a>, or <a href="https://veganipsum.me">vegan ipsum</a> in your designs. Keep in mind that this should not be used in cases where the meaning of the text is important, for example the call to action buttons in the hero.</dd>
+  <dt>Can I use lorem ipsum text in my web page / web app?</dt>
+  <dd>You may use lorem ipsum if you need to but ideally by now you should be using relevant content in your projects. Though, if you don't have relevant content you are absolutely permitted to use <a href="https://www.lipsum.com">lorem ipsum</a>, <a href="https://baconipsum.com">bacon ipsum</a>, or <a href="https://veganipsum.me">vegan ipsum</a> in your designs. Keep in mind that this should not be used in cases where the meaning of the text is important, for example the call to action buttons in the hero.</dd>
 
-  <dt>Do I need to include sketches, concepts, or initial low fidelity mockups in the report</dt>
+  <dt>Do I need to include sketches, concepts, or initial low fidelity mockups in my submission?</dt>
   <dd>No. If you would like to share your design or creative process I'm happy to look at them, but it is not required.</dd>
  
   <dt>Can I use trademarked or copywritten material on my page?</dt>
