@@ -24,7 +24,7 @@ Todo lists are like a "right of passage" in webdev tutorials. A simple Todo list
 1. Your `todos` are going to be javascript objects that your users will be able to dynamically create.
 2. The UI/UX is completely up to you, though it must be responsive and at a minimum enable users to view, add, remove, and delete `todos`. 
 3. Using user centered design principles, consider what additional properties and features your users may need for an awesome Todo list. 
-4. Your `todos` are going to have, at a minimum, `title`, and `done` status. 
+4. Your `todos` are going to have, at a minimum, a `title`, and `done` status. 
 5. Users will also appreciate being able to add categorise or group `todos` together, so you will also need to track `categories` or `headings` or some sort of `grouping` information.
 6. Consider also adding a `priority` and `descriptions` to your `todos`, though only if you feel they add value to your app. 
 7. It would be super annoying to lose all of your `todos` everytime the page refreshed, so you are going to use `localStorage` ([mdn docs](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)) to save the users' data.
