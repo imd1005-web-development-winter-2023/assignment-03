@@ -33,9 +33,8 @@ Todo lists are like a "right of passage" in webdev tutorials. A simple Todo list
 
 ## Assignment acceptance criteria 
 
-* Publish your code on GitHub using the GitHub classrooms generated repository
+* Publish your code to GitHub using the GitHub classrooms generated repository
 * Use the GitHub Pages service to host your pages
-* GitHub time stamps on your project files will be used to asses when the assignment was submitted
 * Ensure you have a license file in your repository (recommend MIT license)
 * Ensure you have the assignment readme.md file in your repository
 
