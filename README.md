@@ -12,14 +12,17 @@
 
 ## TLDR
 
-1. Build a feature rich Todo list.
-2. Add the code for your web page to a GitHub assignment 03 repository and host the page online using the GitHub pages service.
+1. Build a feature rich Todo list wep app.
+2. Add the code for your web app to a GitHub assignment 03 repository and host the app online using the GitHub pages service.
+3. Conduct a code review on a team members assignment 03 submission.
 
 ## Description
 
-Todo lists are like a "right of passage" in webdev tutorials. A simple Todo list can be written in a couple dozen lines of code. There is, however, a huge opportunity for innovation, enhancements and features. Your Assignment 03 involves building an awesome and innovative Todo list app. 
+Todo lists are like a "right of passage" in webdev tutorials. A simple Todo list can be written in a couple dozen lines of code. There is, however, a huge opportunity for innovation, enhancements and features that can take this project from a learning opportunity to a showcase you put on a portfolio. 
 
-## Instructions
+Your Assignment 03 involves building and shipping an awesome and innovative Todo list app, as well as doing a basic code review on a team member's submission.
+
+## Instructions for the app 
 
 1. Your `todos` are going to be javascript objects that your users will be able to dynamically create.
 2. The UI/UX is completely up to you, though it must be responsive and at a minimum enable users to view, add, remove, and delete `todos`. 
@@ -30,6 +33,22 @@ Todo lists are like a "right of passage" in webdev tutorials. A simple Todo list
 7. It would be super annoying to lose all of your `todos` everytime the page refreshed, so you are going to use `localStorage` ([mdn docs](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)) to save the users' data.
 8. You should also have an awesome empty state when a user first opens your app ([examples](https://www.toptal.com/designers/ux/empty-state-ux-design)).  
 9. Though not required, consider "branding" your app with a cool product name, and logo. 
+
+## Instructions for the code review
+
+It is your responsibility to both request a code review from your team members and to conduct a code review for one of your team members. 
+
+### Request code review 
+
+1. When you are between 50% - 100% completed your assignment 03, inform your team members that you require a code review
+
+### Conduct code review 
+
+1. Work with your team members to identify when someone requests a code review 
+2. Create a GitHub Issue in your team members assignment 03 repository to record the results of the following checks 
+3. Check to see that their HTML code validates using the [WC3 HTML Validator](https://validator.w3.org)
+4. Check to see that their CSS code validates using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+5. Check to see that basic functionality is working in their web app (add todo, delete todo, todos persist after refresh)
 
 ## Assignment acceptance criteria 
 
@@ -44,12 +63,12 @@ The creation and posting of this web page is worth 25% of your final grade and m
 
 |Criteria|Total&nbsp;Marks|How we define excellence|
 |----|----|----|
-|Visual design|**15%**|The design presented demonstrates an excellent use of colour (or lack thereof), typography, high quality graphics, and iconography. The design also comes across as cohesive, inviting, and illustrates a focus on user experience. An excellent design also includes a way of delighting users and adding moments of charm to their experience.|
-|Content and layout|**15%**|The content implemented on the web page demonstrates a clear hierarchy and an effective layout is employed for the content that is being displayed in each section. The solution is responsive to the users' viewport and displays well in mobile, tablet, and desktop browsers.|
+|Visual design and layout|**20%**|The design presented demonstrates an excellent use of colour (or lack thereof), typography, high quality graphics, and iconography. The design also comes across as cohesive, inviting, and illustrates a focus on user experience. An excellent design also includes a way of delighting users and adding moments of charm to their experience. The solution is responsive to the users' viewport and displays well in mobile, tablet, and desktop browsers.|
 |HTML|**20%**|The HTML code submitted is well formed, structured, and complaint. Appropriate semantic elements are used throughout the document. For example, use `<header>` for the page header and `<section>` for each document section within `<main>`. Correct use of headings `<h1-h6>` and heading structure. The web page has the appropriate meta tags in the `<head>` to set the charset, viewport and IE11 legacy mode values.|
 |CSS|**20%**|The CSS code submitted is well formed, structured, and compliant. A CSS reset file is used to 'reset' all of the default browser styles. The web page renders correctly in multiple browsers, including but not limited to Firefox and / or Chrome. All CSS should be referenced from an external file. The web page should not use a `<style>` tag or a embedded `style` attributes to apply CSS to the page.|
 |JavaScript|**20%**|The JS code submitted is well formed, structured, and compliant. No run time errors should occur. If an error occurs it should be caught and dealt with appropriately. Your code should be written to the latest ECMAScript 2022 standard. |
 |GitHub&nbsp;submission|**10%**|All of the project files (HTML, CSS, JS, assets) are added to your assignment repository on GitHub. The repository has both a populated READMe.md file and a MIT license file.|
+|Code&nbsp;review|**10%**|Perform a code review on a team members assignment 03 submission and record the results within a GitHub issue in a team members assignment 03 repository.|
 
 ## Late submissions
 
