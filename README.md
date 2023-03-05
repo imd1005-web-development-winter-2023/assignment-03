@@ -12,7 +12,7 @@
 
 ## TLDR
 
-1. Build a feature rich Todo list wep app.
+1. Build a Todo list wep app.
 2. Add the code for your web app to a GitHub assignment 03 repository and host the app online using the GitHub pages service.
 3. Conduct a code review on a team members assignment 03 submission.
 
@@ -24,15 +24,12 @@ Your Assignment 03 involves building and shipping an awesome and innovative Todo
 
 ## Instructions for the app 
 
-1. Your `todos` are going to be javascript objects that your users will be able to dynamically create.
+1. Use HTML, CSS, and JS to build a Todo List web app.
 2. The UI/UX is completely up to you, though it must be responsive and at a minimum enable users to view, add, remove, and delete `todos`. 
 3. Using user centered design principles, consider what additional properties and features your users may need for an awesome Todo list. 
-4. Your `todos` are going to have, at a minimum, a `title`, and `done` status. 
-5. Users will also appreciate being able to add categorise or group `todos` together, so you will also need to track `categories` or `headings` or some sort of `grouping` information.
-6. Consider also adding a `priority` and `descriptions` to your `todos`, though only if you feel they add value to your app. 
-7. It would be super annoying to lose all of your `todos` everytime the page refreshed, so you are going to use `localStorage` ([mdn docs](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)) to save the users' data.
-8. You should also have an awesome empty state when a user first opens your app ([examples](https://www.toptal.com/designers/ux/empty-state-ux-design)).  
-9. Though not required, consider "branding" your app with a cool product name, and logo. 
+4. Your `todos` are going to have, at a minimum, a `title`, and `done` status.
+5. You should also have an awesome empty state when a user first opens your app ([examples](https://www.toptal.com/designers/ux/empty-state-ux-design)).  
+6. Though not required, consider "branding" your app with a cool product name, and logo. 
 
 ## Instructions for the code review
 
@@ -80,6 +77,12 @@ The creation and posting of this web page is worth 25% of your final grade and m
 ## Screenshots for inspiration 
 
 The following are some samples of excellent Todo List applications out there. You do not, and should not build these specfic designs. This is only being shared to illustrate what the industry is putting out there right now, and to provide some inspiration to for your own designs and features.
+
+### Super Simple Todo List App 
+
+<img width="1066" alt="Screenshot 2023-03-05 at 5 09 57 PM" src="https://user-images.githubusercontent.com/9325038/222988719-9d698a9b-102a-427b-83e0-ad18dc4eae81.png">
+
+[Source](https://github.com/wesbos/JavaScript30)
 
 ### Simple Todo List App
 
@@ -158,8 +161,6 @@ TODO
 * [Awwwards](https://www.awwwards.com/websites/)
 * [ui8.net](https://www.ui8.net)
 
-
-
 <!-- 
 
 !!!! ASSIGNMENT BONUS - STILL NEEDS TO BE WRITTEN !!!!
@@ -168,22 +169,31 @@ Congratulations - you found the secret assignment bonus.
 
 Well done! To get an extra 10 marks (ten) on your mark for Assignment 03 please follow the instructions below.
 
+DESCRIPTION:
+
+Use the localstorage javascript feature to save your To Do List Items to the browser's local storage object so that when you do a CTRL+F5 your user's To Do List Items are saved.  
+
 STEP 1: 
 
-TODO
+Add a comment in your index.html page saying:
+
+"I AM CLAIMING THE ASSIGNMENT 03 BONUS"
 
 STEP 2: 
 
-TODO
+https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+
+Use the localStorage object to save your todolist items to localStorage 
 
 STEP 3:
 
-TODO
+Use the localStorage object to load your users todolist items when a page load occurs 
 
 NOTE: 
 
-TODO
-
-!!!! ASSIGNMENT BONUS - STILL NEEDS TO BE WRITTEN  !!!!
+This feature will be considered successfully implemented if a user's todos are preserved on browser refresh
 
 --> 
+
+
+
