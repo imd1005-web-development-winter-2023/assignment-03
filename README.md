@@ -45,7 +45,7 @@ It is your responsibility to both request a code review from your team members a
 2. Create a GitHub Issue in your team members assignment 03 repository to record the results of the following checks 
 3. Check to see that their HTML code validates using the [WC3 HTML Validator](https://validator.w3.org)
 4. Check to see that their CSS code validates using the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-5. Check to see that basic functionality is working in their web app (add todo, delete todo, todos persist after refresh)
+5. Check to see that basic functionality is working in their web app (add todo, delete todo)
 
 ## Assignment acceptance criteria 
 
@@ -144,7 +144,9 @@ The following are some samples of excellent Todo List applications out there. Yo
 
 ### JavaScript Resources
 
-TODO
+* [Learn JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Learn)
+* [The Modern JavaScript Tutorial](https://javascript.info)
+* [LearnJS.org](https://www.learn-js.org)
 
 ### Images and Icons 
 
