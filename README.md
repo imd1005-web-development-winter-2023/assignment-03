@@ -25,7 +25,7 @@ Your Assignment 03 involves building and shipping an awesome and innovative Todo
 ## Instructions for the app 
 
 1. Use HTML, CSS, and JS to build a Todo List web app.
-2. The UI/UX is completely up to you, though it must be responsive and at a minimum enable users to view, add, remove, and delete `todos`. 
+2. The UI/UX is completely up to you, though it must be responsive and at a minimum enable users to view, add, mark as done, and delete `todos`. 
 3. Using user centered design principles, consider what additional properties and features your users may need for an awesome Todo list. 
 4. Your `todos` are going to have, at a minimum, a `title`, and `done` status.
 5. You should also have an awesome empty state when a user first opens your app ([examples](https://www.toptal.com/designers/ux/empty-state-ux-design)).  
